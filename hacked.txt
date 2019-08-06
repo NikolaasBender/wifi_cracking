@@ -1,0 +1,2 @@
+ssid: MyCampusNet-TheBlock Legacy, pwd: 123456
+ssid: MyCampusNet-TheBlock, pwd: 123456
