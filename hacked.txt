@@ -1,2 +1,3 @@
-ssid: MyCampusNet-TheBlock Legacy, pwd: 123456
-ssid: MyCampusNet-TheBlock, pwd: 123456
+ssid: DIRECT-BI-FireTV_3e76, pwd: password
+ssid: DIRECT-FE-HP DeskJet 2600 series, pwd: password
+ssid: DIRECT-rB-FireTV_ed4d, pwd: password
